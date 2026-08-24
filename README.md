@@ -1,26 +1,30 @@
-# 👋 Привет, я hvvze
+<img src="./assets/guts.jpg" width="27%" align="right" alt="Guts walking towards a castle">
 
-**Vibe coding · AI-агенты · автоматизация**
+# hvvze
 
-```text
-🤖 Hermes-агенты и Telegram-боты
-📈 Крипто-инструменты: SweepTrader, ListingParser
-🐧 Linux · VPS · NixOS · self-hosting
-```
+**Vibe coding maxing · retard maxing · AI agents maxing · small content creator.**
 
-Строю живых агентов: боты, которые торгуют, следят за листингами,
-ведут каналы и экономят людям часы. Люблю доводить идею до
-работающего сервиса на своём железе.
+Building personal agents and the tools they need to do things.
 
-## Публичные проекты
+### Currently maxing
 
-- [**iwannabeimp**](https://github.com/hqvdvn-cmd/iwannabeimp) — короткое описание проекта
-- [**Spicy-Scripts-Privacy-Policy**](https://github.com/hqvdvn-cmd/Spicy-Scripts-Privacy-Policy) — политика конфиденциальности
+- 🤖 **Models & media** — GPT, Kimi, DeepSeek, Krea2, Seedance 2.5
+- 🥀 **Projects** — OF / Fansly and Web3
+- 💀 **Tools I use** — Codex, DeepSeek Harness, Hermes, OpenCode
 
-## Где меня найти
+<br clear="right">
 
-- Telegram-боты: [@AIMTHRF_AGENT_BOT](https://t.me/AIMTHRF_AGENT_BOT) · [@hvvze_aget_bot](https://t.me/hvvze_aget_bot) · [@hvvze_agent_tg_writer_bot](https://t.me/hvvze_agent_tg_writer_bot)
+### Public projects
 
----
+<p align="center">
+  <a href="https://github.com/hqvdvn-cmd/iwannabeimp"><img src="./assets/buttons/iwannabeimp.svg" height="34" alt="Open iwannabeimp"></a>
+  <a href="https://github.com/hqvdvn-cmd/FanslyExtension"><img src="./assets/buttons/fansly-extension.svg" height="34" alt="Open FanslyExtension"></a>
+</p>
 
-*Профиль собран агентом на вайбкоде. Обновляется по мере роста проектов.*
+### Social
+
+<p align="center">
+  <a href="https://t.me/hvvzecum"><img src="./assets/buttons/telegram.svg" height="28" alt="Telegram @hvvzecum"></a>
+</p>
+
+<!-- This repository powers the public @hvvze profile. -->

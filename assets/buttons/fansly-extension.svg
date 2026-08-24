@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="40" viewBox="0 0 250 40" role="img" aria-label="Open FanslyExtension">
+  <rect width="250" height="40" rx="8" fill="#181112" stroke="#be123c"/>
+  <path fill="#fb7185" d="M17 12h12v3H20v3h7v3h-7v7h-3Z"/>
+  <text x="40" y="25" fill="#fff1f2" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">PROJECT · FANSLYEXTENSION</text>
+</svg>
