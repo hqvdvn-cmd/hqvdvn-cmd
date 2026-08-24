@@ -21,6 +21,7 @@ Building personal agents and some tools around them.
 <p align="center">
   <a href="https://github.com/hqvdvn-cmd/iwannabeimp"><img src="./assets/buttons/iwannabeimp.svg" height="34" alt="Open iwannabeimp"></a>
   <a href="https://github.com/hqvdvn-cmd/FanslyExtension"><img src="./assets/buttons/fansly-extension.svg" height="34" alt="Open FanslyExtension"></a>
+  <a href="https://github.com/hqvdvn-cmd/GutsPetCodex"><img src="./assets/buttons/guts-pet.svg" height="34" alt="Open Guts-Pet"></a>
 </p>
 
 ### Social
