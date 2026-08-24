@@ -2,14 +2,17 @@
 
 # hvvze
 
+Hey there!<br>
+I'm hvvze.
+
 **Vibe coding maxing · retard maxing · AI agents maxing · small content creator.**
 
 Building personal agents and the tools they need to do things.
 
 ### Currently maxing
 
-- 🤖 **Models & media** — GPT, Kimi, DeepSeek, Krea2, Seedance 2.5
-- 🥀 **Projects** — OF / Fansly and Web3
+- 🤖 **Models I use** — GPT, Kimi, DeepSeek, Krea2, Seedance 2.5
+- 🥀 **Projects that I'm working on** — OF / Fansly and Web3
 - 💀 **Tools I use** — Codex, DeepSeek Harness, Hermes, OpenCode
 
 <br clear="right">
