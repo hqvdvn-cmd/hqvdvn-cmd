@@ -1,19 +1,20 @@
 <img src="./assets/guts.jpg" width="27%" align="right" alt="Guts walking towards a castle">
 
-# hvvze
+# Hey there! 👋
 
-Hey there!<br>
 I'm hvvze.
 
 **Vibe coding maxing · retard maxing · AI agents maxing · small content creator.**
 
-Building personal agents and the tools they need to do things.
+Building personal agents and some tools for them.
 
 ### Currently maxing
 
-- 🤖 **Models I use** — GPT, Kimi, DeepSeek, Krea2, Seedance 2.5
-- 🥀 **Projects that I'm working on** — OF / Fansly and Web3
-- 💀 **Tools I use** — Codex, DeepSeek Harness, Hermes, OpenCode
+<pre>
+🤖 <strong>Models I use</strong> — GPT, Kimi, DeepSeek, Krea2, Seedance 2.5
+🥀 <strong>Projects that I'm working on</strong> — OF / Fansly and Web3
+💀 <strong>Tools I use</strong> — Codex, DeepSeek Harness, Hermes, OpenCode
+</pre>
 
 <br clear="right">
 
