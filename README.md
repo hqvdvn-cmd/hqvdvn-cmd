@@ -10,7 +10,7 @@ Building personal agents and some tools around them.
 
 <pre>
 🤖 <strong>Models I use</strong> — GPT, Kimi, DeepSeek, Krea2, Seedance 2.5
-🥀 <strong>Projects I'm working on</strong> — OF / Fansly and Web3
+🥀 <strong>Projects I'm working on</strong> — AI Agents for OF / Fansly and Web3
 💀 <strong>Tools I use</strong> — Codex, DeepSeek Harness, Hermes, OpenCode
 </pre>
 
