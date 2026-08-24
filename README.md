@@ -1,6 +1,6 @@
 <img src="./assets/guts.jpg" width="27%" align="right" alt="Guts walking towards a castle">
 
-Hey there! 👋
+# Hey there! 👋
 
 **I'm hvvze — vibe coding maxing, retard maxing, AI agents maxing, and a small content creator.**
 
@@ -21,7 +21,7 @@ Building personal agents and some tools around them.
 <p align="center">
   <a href="https://github.com/hqvdvn-cmd/iwannabeimp"><img src="./assets/buttons/iwannabeimp.svg" height="34" alt="Open iwannabeimp"></a>
   <a href="https://github.com/hqvdvn-cmd/FanslyExtension"><img src="./assets/buttons/fansly-extension.svg" height="34" alt="Open FanslyExtension"></a>
-  <a href="https://github.com/hqvdvn-cmd/GutsPetCodex"><img src="./assets/guts-pet.png" height="46" alt="Open Guts-Pet"></a>
+  <a href="https://github.com/hqvdvn-cmd/GutsPetCodex"><img src="./assets/guts-pet.png" height="34" alt="GutsPet"> <strong>GutsPet</strong></a>
 </p>
 
 ### Social
