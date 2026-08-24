@@ -1,6 +1,6 @@
 <img src="./assets/guts.jpg" width="27%" align="right" alt="Guts walking towards a castle">
 
-# Hey there! 👋
+Hey there! 👋
 
 **I'm hvvze — vibe coding maxing, retard maxing, AI agents maxing, and a small content creator.**
 
