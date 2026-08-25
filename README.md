@@ -19,9 +19,9 @@ Building personal agents and some tools around them.
 ### Public projects
 
 <p align="center">
-  <a href="https://github.com/hqvdvn-cmd/iwannabeimp"><img src="./assets/buttons/iwannabeimp.svg" height="34" alt="Open iwannabeimp"></a>
-  <a href="https://github.com/hqvdvn-cmd/FanslyExtension"><img src="./assets/buttons/fansly-extension.svg" height="34" alt="Open FanslyExtension"></a>
-  <a href="https://github.com/hqvdvn-cmd/GutsPetCodex"><img src="./assets/buttons/guts-pet.svg" height="34" alt="Open GutsPet"></a>
+  <a href="https://github.com/hqvdvn-cmd/iwannabeimp"><img src="./assets/buttons/iwannabeimp.svg" height="68" alt="Open iwannabeimp"></a>
+  <a href="https://github.com/hqvdvn-cmd/FanslyExtension"><img src="./assets/buttons/fansly-extension.svg" height="68" alt="Open FanslyExtension"></a>
+  <a href="https://github.com/hqvdvn-cmd/GutsPetCodex"><img src="./assets/buttons/guts-pet.svg" height="68" alt="Open GutsPet"></a>
 </p>
 
 ### Social
