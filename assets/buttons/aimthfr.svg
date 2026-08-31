@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="40" viewBox="0 0 154 40" role="img" aria-label="Open AIMTHFR">
+  <rect width="154" height="40" rx="8" fill="#f5f0e2" stroke="#262832"/>
+  <rect x="4" y="4" width="32" height="32" rx="5" fill="#262832"/>
+  <path d="M11 28 20 12l9 16M14.2 22h11.6" fill="none" stroke="#f5f0e2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <text x="44" y="25" fill="#262832" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">AIMTHFR</text>
+</svg>
