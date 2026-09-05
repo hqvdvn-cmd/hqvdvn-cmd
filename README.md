@@ -28,7 +28,7 @@ Building personal agents and some tools for them.
 ### Social
 
 <p align="center">
-  <a href="https://t.me/hvvzecum"><img src="./assets/buttons/telegram.svg" height="28" alt="Telegram @hvvzecum"></a>
+  <a href="https://t.me/AIMTHFR"><img src="./assets/buttons/telegram.svg" height="28" alt="Telegram @AIMTHFR"></a>
 </p>
 
 <!-- This repository powers the public @hvvze profile. -->
