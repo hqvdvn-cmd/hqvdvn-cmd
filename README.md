@@ -9,9 +9,9 @@ Building personal agents and some tools for them.
 ### Currently maxing
 
 <pre>
-🤖 <strong>Models I use</strong> — GPT, Kimi, DeepSeek, Krea2, Seedance 2.5, MiniMax H3
-🥀 <strong>Projects I'm working on</strong> — AIMTHFR, an AI assistant for OnlyFans and Fansly chatters, and Web3 projects
-💀 <strong>Tools I use</strong> — Codex, DeepSeek Harness, Hermes, OpenCode
+🤖 GPT, Kimi, DeepSeek, Krea2, Seedance 2.5, MiniMax H3
+🥀 AIMTHFR, an AI assistant for OnlyFans and Fansly chatters, and Web3 projects
+💀 Codex, DeepSeek Harness, Hermes, OpenCode
 </pre>
 
 <br clear="right">
