@@ -57,7 +57,7 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 <a href="https://github.com/hqvdvn-cmd/iwannabeimp"><img src="./assets/buttons/iwannabeimp.svg" height="52" alt="iwannabeimp"></a>
 <a href="https://github.com/hqvdvn-cmd/FanslyExtension"><img src="./assets/buttons/fansly-extension.svg" height="52" alt="FanslyExtension"></a>
 <a href="https://github.com/hqvdvn-cmd/GutsPetCodex"><img src="./assets/buttons/guts-pet.svg" height="52" alt="GutsPet for Codex"></a>
-<a href="https://github.com/hqvdvn-cmd/dota2todeadlock"><img src="./assets/dota2todeadlock.png" height="52" alt="Dota 2 to Deadlock mod: item icons and effects"></a>
+<a href="https://github.com/hqvdvn-cmd/dota2todeadlock"><img src="./assets/buttons/dota2todeadlock.svg" height="52" alt="Dota 2 → Deadlock: item icons and effects mod"></a>
 </p>
 
 Fansly chat tools, a Guts companion for Codex, iwannabeimp, and [Dota 2 → Deadlock](https://github.com/hqvdvn-cmd/dota2todeadlock): Dota item icons and effects in Deadlock.

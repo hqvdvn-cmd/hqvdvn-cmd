@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="40" viewBox="0 0 216 40" role="img" aria-label="Dota 2 to Deadlock mod">
+  <title>Dota 2 → Deadlock</title>
+  <rect width="216" height="40" rx="8" fill="#181511" stroke="#a16207"/>
+  <rect x="7" y="7" width="26" height="26" rx="4" fill="#9e3025"/>
+  <text x="20" y="25" text-anchor="middle" fill="#fef3c7" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">D2</text>
+  <text x="43" y="25" fill="#fef3c7" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Dota 2 → Deadlock</text>
+</svg>
