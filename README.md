@@ -37,6 +37,7 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 <td>
 <h3>AIMTHFR <sub>· building now</sub></h3>
 <p>I'm building a full AI chatter for OnlyFans and Fansly: an AI operator that carries the conversation. AIMTHFR is in development.</p>
+<p><img src="./assets/anim/aimthfr-v2.webp" width="100%" alt="AIMTHFR V2 leads a fan chat in the CRM, the operator closes, the spend rolls to $542"></p>
 <p><a href="https://t.me/ilovemymoggedlife">Ask me about AIMTHFR ↗</a></p>
 </td>
 </tr>

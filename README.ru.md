@@ -37,6 +37,7 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 <td>
 <h3>AIMTHFR <sub>· в разработке</sub></h3>
 <p>Делаю полноценного ИИ-чаттера для OnlyFans и Fansly: ИИ-оператора, который сам ведёт переписку. AIMTHFR в разработке.</p>
+<p><img src="./assets/anim/aimthfr-v2.webp" width="100%" alt="AIMTHFR V2 ведёт чат с фаном в CRM, оператор закрывает, спенд растёт до $542"></p>
 <p><a href="https://t.me/ilovemymoggedlife">Спросить про AIMTHFR ↗</a></p>
 </td>
 </tr>
