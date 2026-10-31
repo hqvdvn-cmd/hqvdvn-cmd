@@ -1,8 +1,8 @@
-<img src="./assets/guts.jpg" width="27%" align="right" alt="Guts beneath a distant castle">
+<img src="./assets/anim/guts.webp" width="27%" align="right" alt="Guts beneath the Eclipse, cape moving in the wind">
 
 # hvvze
 
-**Building with AI. Usually with Berserk in the background.**
+<img src="./assets/anim/typing.svg" alt="Building with AI. Usually with Berserk in the background.">
 
 I spend most of my time building AI agents and the tools around them. I also work on Web3 projects and publish experiments when there is something useful to share.
 
@@ -15,6 +15,8 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 <a href="https://t.me/ilovemymoggedlife"><img src="./assets/buttons/telegram.svg" height="28" alt="Telegram @ilovemymoggedlife"></a>
 
 <br clear="right">
+
+<p align="center"><img src="./assets/anim/divider.svg" width="100%" alt=""></p>
 
 ## What I'm building
 
@@ -36,6 +38,8 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 </td>
 </tr>
 </table>
+
+<p align="center"><img src="./assets/anim/divider.svg" width="100%" alt=""></p>
 
 ## Benchmarks & experiments
 
@@ -62,7 +66,15 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 
 Fansly chat tools, a Guts companion for Codex, iwannabeimp, and [Dota 2 → Deadlock](https://github.com/hqvdvn-cmd/dota2todeadlock): Dota item icons and effects in Deadlock.
 
----
+<p align="center"><img src="./assets/anim/divider.svg" width="100%" alt=""></p>
+
+## Struggle log
+
+<img src="./assets/anim/dragonslayer-graph.svg" width="100%" alt="Contribution graph cut by the Dragonslayer">
+
+<img src="./assets/anim/now-playing.svg" height="92" alt="Now playing">
+
+<p align="center"><img src="./assets/anim/divider.svg" width="100%" alt=""></p>
 
 **Projects, experiments, or a good side quest?**<br>
 Find me on Telegram: [@ilovemymoggedlife](https://t.me/ilovemymoggedlife).

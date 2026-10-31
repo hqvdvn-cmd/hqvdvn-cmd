@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="92" viewBox="0 0 420 92" role="img" aria-label="Now playing: Susumu Hirasawa — Forces">
+<defs>
+ <linearGradient id="cv" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4a0d0d"/><stop offset="1" stop-color="#0d0f13"/></linearGradient>
+ <clipPath id="r"><rect x="14" y="14" width="64" height="64" rx="8"/></clipPath>
+</defs>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.k{font-size:10px;letter-spacing:2px;fill:#e0362c;font-weight:700}
+.t{font-size:16px;fill:#ececec;font-weight:700}
+.a{font-size:12px;fill:#8b8f98}
+.b{fill:#e0362c;transform-box:fill-box;transform-origin:bottom;animation:eq 1s ease-in-out infinite alternate}
+.b:nth-child(2){animation-duration:.7s}.b:nth-child(3){animation-duration:1.2s}.b:nth-child(4){animation-duration:.85s}
+@keyframes eq{0%{transform:scaleY(.2)}100%{transform:scaleY(1)}}
+.prog{animation:pr 30s linear infinite;transform-box:fill-box;transform-origin:left}
+@keyframes pr{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.disc{animation:spin 6s linear infinite;transform-origin:46px 46px}
+@keyframes spin{to{transform:rotate(360deg)}}
+</style>
+<rect width="420" height="92" rx="12" fill="#0d0f13" stroke="#2a1414"/>
+<g clip-path="url(#r)"><rect x="14" y="14" width="64" height="64" fill="url(#cv)"/>
+ <g class="disc"><circle cx="46" cy="46" r="18" fill="none" stroke="#e0362c" stroke-width="2" stroke-dasharray="4 3"/><circle cx="46" cy="46" r="10" fill="#000"/></g></g>
+<text x="94" y="30" class="k">NOW PLAYING</text>
+<text x="94" y="52" class="t">Forces</text>
+<text x="94" y="70" class="a">Susumu Hirasawa · Berserk OST</text>
+<g transform="translate(372,26)"><rect class="b" x="0" y="0" width="5" height="22"/><rect class="b" x="8" y="0" width="5" height="22"/><rect class="b" x="16" y="0" width="5" height="22"/><rect class="b" x="24" y="0" width="5" height="22"/></g>
+<rect x="94" y="78" width="300" height="3" rx="1.5" fill="#1d2027"/><rect class="prog" x="94" y="78" width="300" height="3" rx="1.5" fill="#e0362c"/>
+</svg>
