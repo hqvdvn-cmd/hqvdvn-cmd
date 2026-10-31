@@ -1,6 +1,6 @@
-<img src="./assets/anim/guts.webp" width="27%" align="right" alt="Guts beneath the Eclipse, cape moving in the wind">
-
 # hvvze
+
+<img src="./assets/anim/guts.webp" width="27%" align="right" alt="Guts beneath the Eclipse, cape moving in the wind">
 
 <img src="./assets/anim/typing.svg" alt="Building with AI. Usually with Berserk in the background.">
 
@@ -26,6 +26,7 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 <td>
 <h3>AIFRND × AIView</h3>
 <p>AI for interior businesses, from the first customer conversation to a visual brief. AIFRND gathers requirements and qualifies the request; AIView turns the brief and references into visuals.</p>
+<p><img src="./assets/anim/aifrnd-aiview.webp" width="100%" alt="AIFRND qualifies a request, builds a brief, and AIView renders a visual"></p>
 <p><a href="https://aifrnd.org/">Explore the project ↗</a></p>
 </td>
 </tr>
@@ -62,6 +63,11 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 <a href="https://github.com/hqvdvn-cmd/FanslyExtension"><img src="./assets/buttons/fansly-extension.svg" height="52" alt="FanslyExtension"></a>
 <a href="https://github.com/hqvdvn-cmd/GutsPetCodex"><img src="./assets/buttons/guts-pet.svg" height="52" alt="GutsPet for Codex"></a>
 <a href="https://github.com/hqvdvn-cmd/dota2todeadlock"><img src="./assets/buttons/dota2todeadlock.svg" height="52" alt="Dota 2 → Deadlock: item icons and effects mod"></a>
+</p>
+
+<p>
+<a href="https://github.com/hqvdvn-cmd/GutsPetCodex"><img src="./assets/anim/gutspet.webp" width="49%" alt="GutsPet runs in, waves, tosses the Behelit and swings the Dragonslayer"></a>
+<a href="https://github.com/hqvdvn-cmd/FanslyExtension"><img src="./assets/anim/fansly-extension.webp" width="49%" alt="Spicy Scripts: Smart Paste and scheduled sending in a chat"></a>
 </p>
 
 Fansly chat tools, a Guts companion for Codex, iwannabeimp, and [Dota 2 → Deadlock](https://github.com/hqvdvn-cmd/dota2todeadlock): Dota item icons and effects in Deadlock.
