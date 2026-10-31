@@ -1,3 +1,5 @@
+<p align="right"><b>EN</b> · <a href="./README.ru.md">RU</a></p>
+
 # hvvze
 
 <img src="./assets/anim/guts.webp" width="27%" align="right" alt="Guts beneath the Eclipse, cape moving in the wind">
@@ -48,8 +50,9 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 <tr>
 <td width="80" align="center"><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark"><img src="./assets/astra-jev-avatar.svg" width="64" height="64" alt="Astra + Jev project monogram"></a></td>
 <td>
-<h3>Astra + Jev</h3>
+<h3>Astra + Jev <sub>· major update in progress</sub></h3>
 <p>I built a benchmark to test how Jev changes Astra's performance on coding, bug-fixing, and local browser tasks. Five modes compare Astra alone with Jev-assisted decisions and review.</p>
+<p>🛠 <strong>Next version is on the way:</strong> a much tougher benchmark and far more varied tasks. The current results below cover the first round.</p>
 <p><strong>45 attempts</strong> · task success, time, tokens, and estimated API cost. The harness, results, and redacted records are public.</p>
 <p><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark">Explore the benchmark ↗</a> · <a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark/blob/main/RESULTS.md">Read the results</a></p>
 </td>
