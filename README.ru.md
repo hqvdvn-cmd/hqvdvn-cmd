@@ -11,7 +11,7 @@
 Сейчас в фокусе: **AIFRND × AIView**, **AIMTHFR** и замеры того, как работают вместе **Astra + Jev**.
 
 **Мой верстак**<br>
-Codex · DeepSeek Harness · Hermes · OpenCode<br>
+только T3 Code<br>
 GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 
 <a href="https://t.me/ilovemymoggedlife"><img src="./assets/buttons/telegram.svg" height="28" alt="Telegram @ilovemymoggedlife"></a>
@@ -24,7 +24,7 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 
 <table>
 <tr>
-<td width="80" align="center"><a href="https://aifrnd.org/"><img src="./assets/aifrnd-aiview-avatar.png" width="64" height="64" alt="Маскот AIFRND и AIView читает бриф проекта"></a></td>
+<td width="80" align="center"><a href="https://aifrnd.org/"><img src="./assets/profile-smile.svg" width="64" height="64" alt="Маскот AIFRND и AIView читает бриф проекта"></a></td>
 <td>
 <h3>AIFRND × AIView</h3>
 <p>ИИ для интерьерного бизнеса: от первого разговора с клиентом до визуального брифа. AIFRND собирает требования и квалифицирует заявку, AIView превращает бриф и референсы в визуал.</p>
@@ -33,7 +33,7 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 </td>
 </tr>
 <tr>
-<td width="80" align="center"><img src="./assets/aimthfr-avatar.png" width="64" height="64" alt="Аватар проекта AIMTHFR"></td>
+<td width="80" align="center"><img src="./assets/profile-smile.svg" width="64" height="64" alt="Аватар проекта AIMTHFR"></td>
 <td>
 <h3>AIMTHFR <sub>· в разработке</sub></h3>
 <p>Делаю полноценного ИИ-чаттера для OnlyFans и Fansly: ИИ-оператора, который сам ведёт переписку. AIMTHFR в разработке.</p>
@@ -49,7 +49,7 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 
 <table>
 <tr>
-<td width="80" align="center"><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark"><img src="./assets/astra-jev-avatar.svg" width="64" height="64" alt="Монограмма проекта Astra + Jev"></a></td>
+<td width="80" align="center"><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark"><img src="./assets/profile-smile.svg" width="64" height="64" alt="Монограмма проекта Astra + Jev"></a></td>
 <td>
 <h3>Astra + Jev <sub>· готовится крупный апдейт</sub></h3>
 <p>Я собрал бенчмарк, чтобы проверить, как Jev меняет результаты Astra на задачах по коду, багфиксу и локальному браузеру. Пять режимов сравнивают Astra в одиночку с решениями и ревью при помощи Jev.</p>
@@ -75,14 +75,6 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 </p>
 
 Инструменты для чатов Fansly, компаньон-Гатс для Codex, iwannabeimp и [Dota 2 → Deadlock](https://github.com/hqvdvn-cmd/dota2todeadlock): иконки и эффекты предметов из Доты в Deadlock.
-
-<p align="center"><img src="./assets/anim/divider.svg" width="100%" alt=""></p>
-
-## Struggle log
-
-<img src="./assets/anim/dragonslayer-graph.svg" width="100%" alt="Граф контрибьюшнов, который рубит Драконобор">
-
-<img src="./assets/anim/now-playing.svg" height="92" alt="Сейчас играет">
 
 <p align="center"><img src="./assets/anim/divider.svg" width="100%" alt=""></p>
 
