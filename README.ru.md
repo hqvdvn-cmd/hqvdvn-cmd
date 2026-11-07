@@ -24,7 +24,7 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 
 <table>
 <tr>
-<td width="80" align="center"><a href="https://aifrnd.org/"><img src="./assets/profile-smile.svg" width="64" height="64" alt="Демоническая улыбка AIFRND и AIView"></a></td>
+<td width="80" align="center"><a href="https://aifrnd.org/"><img src="./assets/aifrnd-aiview-avatar.png" width="64" height="64" alt="Демоническая улыбка AIFRND и AIView"></a></td>
 <td>
 <h3>AIFRND × AIView</h3>
 <p>ИИ для интерьерного бизнеса: от первого разговора с клиентом до визуального брифа. AIFRND собирает требования и квалифицирует заявку, AIView превращает бриф и референсы в визуал.</p>
@@ -33,7 +33,7 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 </td>
 </tr>
 <tr>
-<td width="80" align="center"><img src="./assets/profile-smile.svg" width="64" height="64" alt="Демоническая улыбка AIMTHFR"></td>
+<td width="80" align="center"><img src="./assets/aimthfr-avatar.png" width="64" height="64" alt="Демоническая улыбка AIMTHFR"></td>
 <td>
 <h3>AIMTHFR <sub>· в разработке</sub></h3>
 <p>Делаю полноценного ИИ-чаттера для OnlyFans и Fansly: ИИ-оператора, который сам ведёт переписку. AIMTHFR в разработке.</p>

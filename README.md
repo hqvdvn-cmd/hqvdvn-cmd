@@ -24,7 +24,7 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 
 <table>
 <tr>
-<td width="80" align="center"><a href="https://aifrnd.org/"><img src="./assets/profile-smile.svg" width="64" height="64" alt="AIFRND and AIView demon grin"></a></td>
+<td width="80" align="center"><a href="https://aifrnd.org/"><img src="./assets/aifrnd-aiview-avatar.png" width="64" height="64" alt="AIFRND and AIView demon grin"></a></td>
 <td>
 <h3>AIFRND × AIView</h3>
 <p>AI for interior businesses, from the first customer conversation to a visual brief. AIFRND gathers requirements and qualifies the request; AIView turns the brief and references into visuals.</p>
@@ -33,7 +33,7 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 </td>
 </tr>
 <tr>
-<td width="80" align="center"><img src="./assets/profile-smile.svg" width="64" height="64" alt="AIMTHFR demon grin"></td>
+<td width="80" align="center"><img src="./assets/aimthfr-avatar.png" width="64" height="64" alt="AIMTHFR demon grin"></td>
 <td>
 <h3>AIMTHFR <sub>· building now</sub></h3>
 <p>I'm building a full AI chatter for OnlyFans and Fansly: an AI operator that carries the conversation. AIMTHFR is in development.</p>
