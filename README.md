@@ -24,7 +24,7 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 
 <table>
 <tr>
-<td width="80" align="center"><a href="https://aifrnd.org/"><img src="./assets/profile-smile.svg" width="64" height="64" alt="AIFRND and AIView mascot reading a project brief"></a></td>
+<td width="80" align="center"><a href="https://aifrnd.org/"><img src="./assets/profile-smile.svg" width="64" height="64" alt="AIFRND and AIView demon grin"></a></td>
 <td>
 <h3>AIFRND × AIView</h3>
 <p>AI for interior businesses, from the first customer conversation to a visual brief. AIFRND gathers requirements and qualifies the request; AIView turns the brief and references into visuals.</p>
@@ -33,7 +33,7 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 </td>
 </tr>
 <tr>
-<td width="80" align="center"><img src="./assets/profile-smile.svg" width="64" height="64" alt="AIMTHFR project avatar"></td>
+<td width="80" align="center"><img src="./assets/profile-smile.svg" width="64" height="64" alt="AIMTHFR demon grin"></td>
 <td>
 <h3>AIMTHFR <sub>· building now</sub></h3>
 <p>I'm building a full AI chatter for OnlyFans and Fansly: an AI operator that carries the conversation. AIMTHFR is in development.</p>
@@ -49,7 +49,7 @@ GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 
 <table>
 <tr>
-<td width="80" align="center"><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark"><img src="./assets/profile-smile.svg" width="64" height="64" alt="Astra + Jev project monogram"></a></td>
+<td width="80" align="center"><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark"><img src="./assets/astra-jev-avatar.svg" width="64" height="64" alt="Astra + Jev project monogram"></a></td>
 <td>
 <h3>Astra + Jev <sub>· major update in progress</sub></h3>
 <p>I built a benchmark to test how Jev changes Astra's performance on coding, bug-fixing, and local browser tasks. Five modes compare Astra alone with Jev-assisted decisions and review.</p>
