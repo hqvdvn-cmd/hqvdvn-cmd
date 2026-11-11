@@ -12,7 +12,7 @@ Current focus: **AIFRND × AIView**, **AIMTHFR**, and measuring how **Astra + Je
 
 **My workbench**<br>
 T3 Code only<br>
-GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
+Claude · GPT · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 
 <a href="https://t.me/ilovemymoggedlife"><img src="./assets/buttons/telegram.svg" height="28" alt="Telegram @ilovemymoggedlife"></a>
 
