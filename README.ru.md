@@ -10,9 +10,9 @@
 
 Сейчас в фокусе: **AIFRND × AIView**, **AIMTHFR** и замеры того, как работают вместе **Astra + Jev**.
 
-**Мой верстак**<br>
+**Мой стэк**<br>
 только T3 Code<br>
-GPT · Kimi · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
+Claude · GPT · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 
 <a href="https://t.me/ilovemymoggedlife"><img src="./assets/buttons/telegram.svg" height="28" alt="Telegram @ilovemymoggedlife"></a>
 
