@@ -4,7 +4,7 @@
 
 <img src="./assets/anim/guts.webp" width="27%" align="right" alt="Guts beneath the Eclipse, cape moving in the wind">
 
-<img src="./assets/anim/typing.svg" alt="Building with AI. Usually with Berserk in the background.">
+<img src="./assets/anim/typing.svg" alt="Building AI agents & eval harnesses. From rough prototype to shipped tool.">
 
 I build AI agents, evaluation harnesses, and web tools end-to-end — from prototype to deployed product.
 
