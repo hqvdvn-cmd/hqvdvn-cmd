@@ -6,13 +6,12 @@
 
 <img src="./assets/anim/typing-ru.svg" alt="Делаю штуки с ИИ. Обычно под Берсерк на фоне.">
 
-Большую часть времени я строю ИИ-агентов и инструменты вокруг них. Ещё работаю над Web3-проектами и выкладываю эксперименты, когда есть чем поделиться.
+Строю ИИ-агентов, харнессы для оценки моделей и веб-инструменты под ключ — от прототипа до задеплоенного продукта.
 
-Сейчас в фокусе: **AIFRND × AIView**, **AIMTHFR** и замеры того, как работают вместе **Astra + Jev**.
+Сейчас в фокусе: **AIFRND × AIView**, бенчмарк **Astra + Jev**, **Figma Compositor** и **AIMTHFR**.
 
-**Мой стэк**<br>
-только T3 Code<br>
-Claude · GPT · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
+**Фокус:** ИИ-агенты и пайплайны · evals и браузерная автоматизация · веб-приложения и Chrome-расширения<br>
+**Workflow:** AI-native разработка — T3 Code · Claude · Gemini · GPT · DeepSeek
 
 <a href="https://t.me/ilovemymoggedlife"><img src="./assets/buttons/telegram.svg" height="28" alt="Telegram @ilovemymoggedlife"></a>
 
@@ -20,24 +19,33 @@ Claude · GPT · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 
 <p align="center"><img src="./assets/anim/divider.svg" width="100%" alt=""></p>
 
-## Что я строю
+## Продукты и инструменты
 
 <table>
 <tr>
-<td width="80" align="center"><a href="https://aifrnd.org/"><img src="./assets/aifrnd-aiview-avatar.png" width="64" height="64" alt="Демоническая улыбка AIFRND и AIView"></a></td>
+<td width="80" align="center"><a href="https://aifrnd.org/"><img src="./assets/aifrnd-aiview-avatar.png" width="64" height="64" alt="Иконка AIFRND × AIView"></a></td>
 <td>
-<h3>AIFRND × AIView</h3>
-<p>ИИ для интерьерного бизнеса: от первого разговора с клиентом до визуального брифа. AIFRND собирает требования и квалифицирует заявку, AIView превращает бриф и референсы в визуал.</p>
+<h3>AIFRND × AIView <sub>· live</sub></h3>
+<p>ИИ-пайплайн для интерьерного бизнеса: от первого диалога с клиентом до визуального брифа. AIFRND квалифицирует заявку и собирает требования, а AIView превращает бриф и референсы в визуал.</p>
 <p><img src="./assets/anim/aifrnd-aiview.webp" width="100%" alt="AIFRND квалифицирует заявку, собирает бриф, AIView делает визуал"></p>
 <p><a href="https://aifrnd.org/">Открыть проект ↗</a></p>
 </td>
 </tr>
 <tr>
-<td width="80" align="center"><img src="./assets/aimthfr-avatar.png" width="64" height="64" alt="Демоническая улыбка AIMTHFR"></td>
+<td width="80" align="center"><a href="https://figma-compositor.vercel.app/"><img src="./assets/figma-compositor-avatar.svg" width="64" height="64" alt="Иконка Figma Compositor"></a></td>
+<td>
+<h3>Figma Compositor <sub>· live · TypeScript</sub></h3>
+<p>Веб-сервис, который собирает SVG-композиции из готовой векторной библиотеки без искажения исходных контуров: автоподбор по смыслу и названиям, форматы холста, свои палитры из Figma, ручная правка слоёв и чистый экспорт в SVG.</p>
+<p><img src="./assets/anim/figma-compositor.webp" width="100%" alt="Figma Compositor собирает SVG-композиции, меняет форматы и палитры и экспортирует вектор"></p>
+<p><a href="https://figma-compositor.vercel.app/">Открыть сервис ↗</a> · <a href="https://github.com/hqvdvn-cmd/figma_compositor">Репозиторий</a></p>
+</td>
+</tr>
+<tr>
+<td width="80" align="center"><img src="./assets/aimthfr-avatar.png" width="64" height="64" alt="Иконка AIMTHFR"></td>
 <td>
 <h3>AIMTHFR <sub>· в разработке</sub></h3>
-<p>Делаю полноценного ИИ-чаттера для OnlyFans и Fansly: ИИ-оператора, который сам ведёт переписку. AIMTHFR в разработке.</p>
-<p><img src="./assets/anim/aimthfr-v2.webp" width="100%" alt="AIMTHFR V2 ведёт чат с фаном в CRM, оператор закрывает, спенд растёт до $542"></p>
+<p>Автономный AI sales/chat-оператор для creator CRM-платформ: ведёт многоходовые диалоги, удерживает контекст и поддерживает плавную передачу чата живому оператору прямо внутри CRM.</p>
+<p><img src="./assets/anim/aimthfr-v2.webp" width="100%" alt="AIMTHFR V2 ведёт диалог в CRM с передачей оператору"></p>
 <p><a href="https://t.me/ilovemymoggedlife">Спросить про AIMTHFR ↗</a></p>
 </td>
 </tr>
@@ -51,11 +59,11 @@ Claude · GPT · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 <tr>
 <td width="80" align="center"><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark"><img src="./assets/astra-jev-avatar.svg" width="64" height="64" alt="Монограмма проекта Astra + Jev"></a></td>
 <td>
-<h3>Astra + Jev <sub>· готовится крупный апдейт</sub></h3>
-<p>Я собрал бенчмарк, чтобы проверить, как Jev меняет результаты Astra на задачах по коду, багфиксу и локальному браузеру. Пять режимов сравнивают Astra в одиночку с решениями и ревью при помощи Jev.</p>
-<p>🛠 <strong>Новая версия на подходе:</strong> заметно более жёсткий бенчмарк и гораздо больше разнообразия в задачах. Текущие результаты ниже относятся к первому раунду.</p>
-<p><strong>45 попыток</strong> · успешность задач, время, токены и примерная стоимость API. Харнесс, результаты и обезличенные записи открыты.</p>
-<p><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark">Открыть бенчмарк ↗</a> · <a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark/blob/main/RESULTS.md">Результаты</a></p>
+<h3>Astra + Jev Benchmark <sub>· открытый харнесс · React-пилот</sub></h3>
+<p>Воспроизводимый бенчмарк, проверяющий, как ограниченная оркестрация <strong>Jev</strong> влияет на результаты кодинговых моделей (<strong>Astra</strong> и <strong>Sol 6.1</strong>) на сборке React-сайтов, багфиксе и локальных браузерных задачах.</p>
+<p><strong>React-пилот (октябрь 2026):</strong> 20 зачётных прогонов (<code>xhigh</code>, бюджет 900с) с 18 автоматическими проверками сборки и браузера (фильтры, прайсинг, валидация форм, фокус с клавиатуры, мобильные экраны, reduced motion, ошибки рантайма). Харнесс, логи и все собранные сайты открыты.</p>
+<p><a href="https://hqvdvn-cmd.github.io/astra-jev-benchmark/gallery/"><img src="./assets/astra-jev-outcomes-ru.png" width="100%" alt="Результаты React-пилота: Astra и Sol 6.1 с оркестрацией Jev и без неё"></a></p>
+<p><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark">Открыть бенчмарк ↗</a> · <a href="https://hqvdvn-cmd.github.io/astra-jev-benchmark/gallery/">Галерея сайтов</a> · <a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark/blob/main/RESULTS.md">Результаты</a></p>
 </td>
 </tr>
 </table>
@@ -63,10 +71,11 @@ Claude · GPT · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 ### Другие открытые проекты
 
 <p>
-<a href="https://github.com/hqvdvn-cmd/iwannabeimp"><img src="./assets/buttons/iwannabeimp.svg" height="52" alt="iwannabeimp"></a>
-<a href="https://github.com/hqvdvn-cmd/FanslyExtension"><img src="./assets/buttons/fansly-extension.svg" height="52" alt="FanslyExtension"></a>
-<a href="https://github.com/hqvdvn-cmd/GutsPetCodex"><img src="./assets/buttons/guts-pet.svg" height="52" alt="GutsPet для Codex"></a>
-<a href="https://github.com/hqvdvn-cmd/dota2todeadlock"><img src="./assets/buttons/dota2todeadlock.svg" height="52" alt="Dota 2 → Deadlock: мод с иконками и эффектами предметов"></a>
+<a href="https://github.com/hqvdvn-cmd/FanslyExtension"><img src="./assets/buttons/fansly-extension.svg" height="46" alt="FanslyExtension"></a>
+<a href="https://github.com/hqvdvn-cmd/GutsPetCodex"><img src="./assets/buttons/guts-pet.svg" height="46" alt="GutsPet для Codex"></a>
+<a href="https://github.com/hqvdvn-cmd/dota2todeadlock"><img src="./assets/buttons/dota2todeadlock.svg" height="46" alt="Dota 2 → Deadlock: мод с иконками и эффектами предметов"></a>
+<a href="https://github.com/hqvdvn-cmd/sekiro-shura-deadlock"><img src="./assets/buttons/sekiro-shura.svg" height="46" alt="Sekiro → Deadlock: визуальный мод для Yamato"></a>
+<a href="https://github.com/hqvdvn-cmd/iwannabeimp"><img src="./assets/buttons/iwannabeimp.svg" height="46" alt="iwannabeimp: мод для Among Us"></a>
 </p>
 
 <p>
@@ -74,9 +83,7 @@ Claude · GPT · DeepSeek · Krea2 · Seedance 2.5 · MiniMax H3
 <a href="https://github.com/hqvdvn-cmd/FanslyExtension"><img src="./assets/anim/fansly-extension.webp" width="49%" alt="Spicy Scripts: Smart Paste и отложенная отправка в чате"></a>
 </p>
 
-Инструменты для чатов Fansly, компаньон-Гатс для Codex, iwannabeimp и [Dota 2 → Deadlock](https://github.com/hqvdvn-cmd/dota2todeadlock): иконки и эффекты предметов из Доты в Deadlock.
-
 <p align="center"><img src="./assets/anim/divider.svg" width="100%" alt=""></p>
 
-**Проект, эксперимент или хороший сайд-квест?**<br>
+**Открыт к предложениям по работе (AI engineering / product builder), проектной разработке и интересным задачам.**<br>
 Пиши в Telegram: [@ilovemymoggedlife](https://t.me/ilovemymoggedlife).

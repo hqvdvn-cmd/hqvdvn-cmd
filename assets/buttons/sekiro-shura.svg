@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="212" height="40" viewBox="0 0 212 40" role="img" aria-label="Sekiro to Deadlock mod">
+  <title>Sekiro → Deadlock</title>
+  <rect width="212" height="40" rx="8" fill="#181212" stroke="#b91c1c"/>
+  <rect x="7" y="7" width="26" height="26" rx="4" fill="#7f1d1d"/>
+  <path d="M13 27 27 13M22 13h5v5" stroke="#fef3c7" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="43" y="25" fill="#fef3c7" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Sekiro → Deadlock</text>
+</svg>
