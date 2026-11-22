@@ -8,7 +8,7 @@
 
 I build AI agents, evaluation harnesses, and web tools end-to-end — from prototype to deployed product.
 
-Current focus: **AIFRND × AIView**, **Astra + Jev** benchmarks, **Figma Compositor**, and **AIMTHFR**.
+Current focus: **AIFRND × AIView**, **AIMTHFR**, and **Astra + Jev** benchmarks.
 
 **Focus:** AI agents & workflows · evals & browser automation · web apps & Chrome extensions<br>
 **Workflow:** AI-native development — T3 Code · Claude · Gemini · GPT · DeepSeek
@@ -29,15 +29,6 @@ Current focus: **AIFRND × AIView**, **Astra + Jev** benchmarks, **Figma Composi
 <p>AI workflow for interior businesses, from the first customer conversation to a visual brief. AIFRND qualifies the lead and gathers requirements; AIView turns the brief and references into interior visuals.</p>
 <p><img src="./assets/anim/aifrnd-aiview.webp" width="100%" alt="AIFRND qualifies a request, builds a brief, and AIView renders a visual"></p>
 <p><a href="https://aifrnd.org/">Explore the project ↗</a></p>
-</td>
-</tr>
-<tr>
-<td width="80" align="center"><a href="https://figma-compositor.vercel.app/"><img src="./assets/figma-compositor-avatar.svg" width="64" height="64" alt="Figma Compositor icon"></a></td>
-<td>
-<h3>Figma Compositor <sub>· live · TypeScript</sub></h3>
-<p>Web service that assembles SVG compositions from a curated vector library without mutating source paths — auto-layout by meaning or object names, canvas presets, custom Figma palettes, manual layer controls, and clean SVG export.</p>
-<p><img src="./assets/anim/figma-compositor.webp" width="100%" alt="Figma Compositor assembling SVG layouts, switching formats and palettes, and exporting vector scenes"></p>
-<p><a href="https://figma-compositor.vercel.app/">Open live app ↗</a> · <a href="https://github.com/hqvdvn-cmd/figma_compositor">Repository</a></p>
 </td>
 </tr>
 <tr>

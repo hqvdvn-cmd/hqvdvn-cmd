@@ -8,7 +8,7 @@
 
 Строю ИИ-агентов, харнессы для оценки моделей и веб-инструменты под ключ — от прототипа до задеплоенного продукта.
 
-Сейчас в фокусе: **AIFRND × AIView**, бенчмарк **Astra + Jev**, **Figma Compositor** и **AIMTHFR**.
+Сейчас в фокусе: **AIFRND × AIView**, **AIMTHFR** и бенчмарк **Astra + Jev**.
 
 **Фокус:** ИИ-агенты и пайплайны · evals и браузерная автоматизация · веб-приложения и Chrome-расширения<br>
 **Workflow:** AI-native разработка — T3 Code · Claude · Gemini · GPT · DeepSeek
@@ -19,7 +19,7 @@
 
 <p align="center"><img src="./assets/anim/divider.svg" width="100%" alt=""></p>
 
-## Продукты и инструменты
+## Что я строю
 
 <table>
 <tr>
@@ -29,15 +29,6 @@
 <p>ИИ-пайплайн для интерьерного бизнеса: от первого диалога с клиентом до визуального брифа. AIFRND квалифицирует заявку и собирает требования, а AIView превращает бриф и референсы в визуал.</p>
 <p><img src="./assets/anim/aifrnd-aiview.webp" width="100%" alt="AIFRND квалифицирует заявку, собирает бриф, AIView делает визуал"></p>
 <p><a href="https://aifrnd.org/">Открыть проект ↗</a></p>
-</td>
-</tr>
-<tr>
-<td width="80" align="center"><a href="https://figma-compositor.vercel.app/"><img src="./assets/figma-compositor-avatar.svg" width="64" height="64" alt="Иконка Figma Compositor"></a></td>
-<td>
-<h3>Figma Compositor <sub>· live · TypeScript</sub></h3>
-<p>Веб-сервис, который собирает SVG-композиции из готовой векторной библиотеки без искажения исходных контуров: автоподбор по смыслу и названиям, форматы холста, свои палитры из Figma, ручная правка слоёв и чистый экспорт в SVG.</p>
-<p><img src="./assets/anim/figma-compositor.webp" width="100%" alt="Figma Compositor собирает SVG-композиции, меняет форматы и палитры и экспортирует вектор"></p>
-<p><a href="https://figma-compositor.vercel.app/">Открыть сервис ↗</a> · <a href="https://github.com/hqvdvn-cmd/figma_compositor">Репозиторий</a></p>
 </td>
 </tr>
 <tr>
