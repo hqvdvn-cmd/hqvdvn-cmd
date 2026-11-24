@@ -6,12 +6,12 @@
 
 <img src="./assets/anim/typing-ru.svg" alt="Строю ИИ-агентов и eval-харнессы. От прототипа до рабочего продукта.">
 
-Строю ИИ-агентов, харнессы для оценки моделей и веб-инструменты под ключ — от прототипа до задеплоенного продукта.
+Делаю ИИ-агентов, харнессы для оценки моделей и веб-инструменты и довожу их от первого прототипа до продакшена.
 
-Сейчас в фокусе: **AIFRND × AIView**, **AIMTHFR** и бенчмарк **Astra + Jev**.
+Сейчас работаю над **AIFRND × AIView**, **AIMTHFR** и бенчмарком **Astra + Jev**.
 
-**Фокус:** ИИ-агенты и пайплайны · evals и браузерная автоматизация · веб-приложения и Chrome-расширения<br>
-**Workflow:** AI-native разработка — T3 Code · Claude · Gemini · GPT · DeepSeek
+**Направления:** ИИ-агенты и пайплайны · evals и браузерная автоматизация · веб-приложения и расширения для Chrome<br>
+**Как работаю:** пишу код с агентами Claude, Gemini, GPT и DeepSeek в T3 Code
 
 <a href="https://t.me/ilovemymoggedlife"><img src="./assets/buttons/telegram.svg" height="28" alt="Telegram @ilovemymoggedlife"></a>
 
@@ -26,16 +26,16 @@
 <td width="80" align="center"><a href="https://aifrnd.org/"><img src="./assets/aifrnd-aiview-avatar.png" width="64" height="64" alt="Иконка AIFRND × AIView"></a></td>
 <td>
 <h3>AIFRND × AIView <sub>· live</sub></h3>
-<p>ИИ-пайплайн для интерьерного бизнеса: от первого диалога с клиентом до визуального брифа. AIFRND квалифицирует заявку и собирает требования, а AIView превращает бриф и референсы в визуал.</p>
+<p>ИИ-пайплайн для интерьерного бизнеса: от первого разговора с клиентом до визуального брифа. AIFRND квалифицирует заявку и собирает требования, AIView по брифу и референсам делает визуализации интерьера.</p>
 <p><img src="./assets/anim/aifrnd-aiview.webp" width="100%" alt="AIFRND квалифицирует заявку, собирает бриф, AIView делает визуал"></p>
-<p><a href="https://aifrnd.org/">Открыть проект ↗</a></p>
+<p><a href="https://aifrnd.org/">Сайт проекта ↗</a></p>
 </td>
 </tr>
 <tr>
 <td width="80" align="center"><img src="./assets/aimthfr-avatar.png" width="64" height="64" alt="Иконка AIMTHFR"></td>
 <td>
 <h3>AIMTHFR <sub>· в разработке</sub></h3>
-<p>Автономный AI sales/chat-оператор для creator CRM-платформ: ведёт многоходовые диалоги, удерживает контекст и поддерживает плавную передачу чата живому оператору прямо внутри CRM.</p>
+<p>Автономный ИИ-оператор продаж и чатов для CRM-платформ креаторов. Ведёт многоходовые диалоги, помнит контекст переписки и может передать чат живому оператору, не выходя из CRM.</p>
 <p><img src="./assets/anim/aimthfr-v2.webp" width="100%" alt="AIMTHFR V2 ведёт диалог в CRM с передачей оператору"></p>
 <p><a href="https://t.me/ilovemymoggedlife">Спросить про AIMTHFR ↗</a></p>
 </td>
@@ -48,13 +48,13 @@
 
 <table>
 <tr>
-<td width="80" align="center"><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark"><img src="./assets/astra-jev-avatar.svg" width="64" height="64" alt="Монограмма проекта Astra + Jev"></a></td>
+<td width="80" align="center"><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark"><img src="./assets/astra-jev-avatar.png" width="64" height="64" alt="Иконка Astra + Jev Benchmark"></a></td>
 <td>
 <h3>Astra + Jev Benchmark <sub>· парный пилот DeepSWE · ноябрь 2026</sub></h3>
-<p>Парное сравнение чистого Codex CLI (<code>gpt-6.2-sol</code>, <code>high</code>) и <a href="https://github.com/teo-nex/jev-codex-harness"><code>teo-nex/jev-codex-harness</code></a> (<code>cea6502</code>, <code>split-v17-terra6.1-default-sol6.2-hard</code>). Автор харнесса — <strong>Teo | Nexcore (<a href="https://github.com/teo-nex">@teo-nex</a>)</strong>. Обе ветки решали одни и те же реальные задачи DeepSWE в изолированных Docker-контейнерах без сети.</p>
-<p><strong>4 полные пары (2026-11-24):</strong> чистый Codex решил 4 из 4, <code>jev/auto</code> — 2 из 4. У <code>jev/auto</code> кэш-хит упал с 96.7% до 35.5%, некэшированный вход вырос в 22.1 раза (431k → 9.54M), и ни один из 215 вызовов не ушёл в дешёвую <code>gpt-6.1-terra</code>. Задача #5 остановилась на HTTP 429.</p>
+<p>Парное сравнение чистого Codex CLI (<code>gpt-6.2-sol</code>, <code>high</code>) и <a href="https://github.com/teo-nex/jev-codex-harness"><code>teo-nex/jev-codex-harness</code></a> (<code>cea6502</code>, <code>split-v17-terra6.1-default-sol6.2-hard</code>). Харнесс написал <strong>Teo | Nexcore (<a href="https://github.com/teo-nex">@teo-nex</a>)</strong>. Обе конфигурации решали одни и те же реальные задачи DeepSWE в изолированных Docker-контейнерах без доступа к сети.</p>
+<p><strong>4 полные пары (2026-11-24):</strong> чистый Codex решил 4 из 4, <code>jev/auto</code> — 2 из 4. У <code>jev/auto</code> доля попаданий в кэш промпта упала с 96.7% до 35.5%, а некэшированный вход вырос в 22.1 раза (431k → 9.54M). Ни один из 215 вызовов не ушёл в более дешёвую <code>gpt-6.1-terra</code>. Задача #5 остановилась на HTTP 429.</p>
 <p><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark/blob/main/README.ru.md"><img src="./assets/astra-jev-outcomes-ru.png" width="100%" alt="Парный пилот DeepSWE, 4 полные пары: чистый Codex решил 4 из 4, jev-auto — 2 из 4; некэшированный вход 431k и 9.54M (22.1×), около 482k при починенном кэше; выходные токены 120.9k и 147.0k (+21.5%); 0 из 215 вызовов ушло в gpt-6.1-terra"></a></p>
-<p><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark/blob/main/README.ru.md">Открыть бенчмарк ↗</a> · <a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark/blob/main/evidence/2026-11-24-deepswe-pilot-10-v1/summary.md">Сводка</a> · <a href="https://github.com/teo-nex/jev-codex-harness">jev-codex-harness</a></p>
+<p><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark/blob/main/README.ru.md">Репозиторий бенчмарка ↗</a> · <a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark/blob/main/evidence/2026-11-24-deepswe-pilot-10-v1/summary.md">Сводка пилота</a> · <a href="https://github.com/teo-nex/jev-codex-harness">jev-codex-harness</a></p>
 </td>
 </tr>
 </table>
@@ -76,5 +76,5 @@
 
 <p align="center"><img src="./assets/anim/divider.svg" width="100%" alt=""></p>
 
-**Открыт к предложениям по работе (AI engineering / product builder), проектной разработке и интересным задачам.**<br>
+**Открыт к ролям AI engineer и product builder, контрактной работе и совместным проектам.**<br>
 Пиши в Telegram: [@ilovemymoggedlife](https://t.me/ilovemymoggedlife).
