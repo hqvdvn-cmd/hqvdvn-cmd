@@ -50,11 +50,11 @@ Current focus: **AIFRND × AIView**, **AIMTHFR**, and **Astra + Jev** benchmarks
 <tr>
 <td width="80" align="center"><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark"><img src="./assets/astra-jev-avatar.svg" width="64" height="64" alt="Astra + Jev project monogram"></a></td>
 <td>
-<h3>Astra + Jev Benchmark <sub>· public harness · React pilot</sub></h3>
-<p>Reproducible evaluation harness measuring how bounded <strong>Jev</strong> orchestration affects frontier coding models (<strong>Astra</strong> &amp; <strong>Sol 6.1</strong>) on full-stack React builds, bug-fixing, and local browser tasks.</p>
-<p><strong>React website pilot (Oct 2026):</strong> 20 scored runs (<code>xhigh</code>, 900s budget) validated by 18 automated build &amp; browser checks (filters, pricing, form validation, keyboard focus, mobile widths, reduced motion, runtime errors). Harness, logs, and all generated builds are public.</p>
-<p><a href="https://hqvdvn-cmd.github.io/astra-jev-benchmark/gallery/"><img src="./assets/astra-jev-outcomes-en.png" width="100%" alt="React pilot outcomes: Astra vs Sol 6.1 with and without Jev orchestration"></a></p>
-<p><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark">Explore the benchmark ↗</a> · <a href="https://hqvdvn-cmd.github.io/astra-jev-benchmark/gallery/">Live site gallery</a> · <a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark/blob/main/RESULTS.md">Results</a></p>
+<h3>Astra + Jev Benchmark <sub>· DeepSWE paired pilot · Nov 2026</sub></h3>
+<p>Paired test of plain Codex CLI (<code>gpt-6.2-sol</code>, <code>high</code>) against <a href="https://github.com/teo-nex/jev-codex-harness"><code>teo-nex/jev-codex-harness</code></a> (<code>cea6502</code>, <code>split-v17-terra6.1-default-sol6.2-hard</code>) by <strong>Teo | Nexcore (<a href="https://github.com/teo-nex">@teo-nex</a>)</strong>. Both arms ran the same real DeepSWE repository tasks in isolated no-network Docker containers.</p>
+<p><strong>4 complete pairs (2026-11-24):</strong> plain Codex passed 4/4, <code>jev/auto</code> passed 2/4. Its prompt cache hit fell from 96.7% to 35.5% and uncached input grew 22.1× (431k → 9.54M). None of its 215 calls went to the cheaper <code>gpt-6.1-terra</code>. Task #5 stopped on HTTP 429.</p>
+<p><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark"><img src="./assets/astra-jev-outcomes-en.png" width="100%" alt="DeepSWE paired pilot, 4 complete pairs: plain Codex passed 4/4 and jev-auto 2/4; uncached input 431k vs 9.54M (22.1×), about 482k with the cache fixed; output tokens 120.9k vs 147.0k (+21.5%); 0 of 215 calls routed to gpt-6.1-terra"></a></p>
+<p><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark">Explore the benchmark ↗</a> · <a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark/blob/main/evidence/2026-11-24-deepswe-pilot-10-v1/summary.md">Summary</a> · <a href="https://github.com/teo-nex/jev-codex-harness">jev-codex-harness</a></p>
 </td>
 </tr>
 </table>

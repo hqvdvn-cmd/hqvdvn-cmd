@@ -50,11 +50,11 @@
 <tr>
 <td width="80" align="center"><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark"><img src="./assets/astra-jev-avatar.svg" width="64" height="64" alt="Монограмма проекта Astra + Jev"></a></td>
 <td>
-<h3>Astra + Jev Benchmark <sub>· открытый харнесс · React-пилот</sub></h3>
-<p>Воспроизводимый бенчмарк, проверяющий, как ограниченная оркестрация <strong>Jev</strong> влияет на результаты кодинговых моделей (<strong>Astra</strong> и <strong>Sol 6.1</strong>) на сборке React-сайтов, багфиксе и локальных браузерных задачах.</p>
-<p><strong>React-пилот (октябрь 2026):</strong> 20 зачётных прогонов (<code>xhigh</code>, бюджет 900с) с 18 автоматическими проверками сборки и браузера (фильтры, прайсинг, валидация форм, фокус с клавиатуры, мобильные экраны, reduced motion, ошибки рантайма). Харнесс, логи и все собранные сайты открыты.</p>
-<p><a href="https://hqvdvn-cmd.github.io/astra-jev-benchmark/gallery/"><img src="./assets/astra-jev-outcomes-ru.png" width="100%" alt="Результаты React-пилота: Astra и Sol 6.1 с оркестрацией Jev и без неё"></a></p>
-<p><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark">Открыть бенчмарк ↗</a> · <a href="https://hqvdvn-cmd.github.io/astra-jev-benchmark/gallery/">Галерея сайтов</a> · <a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark/blob/main/RESULTS.md">Результаты</a></p>
+<h3>Astra + Jev Benchmark <sub>· парный пилот DeepSWE · ноябрь 2026</sub></h3>
+<p>Парное сравнение чистого Codex CLI (<code>gpt-6.2-sol</code>, <code>high</code>) и <a href="https://github.com/teo-nex/jev-codex-harness"><code>teo-nex/jev-codex-harness</code></a> (<code>cea6502</code>, <code>split-v17-terra6.1-default-sol6.2-hard</code>). Автор харнесса — <strong>Teo | Nexcore (<a href="https://github.com/teo-nex">@teo-nex</a>)</strong>. Обе ветки решали одни и те же реальные задачи DeepSWE в изолированных Docker-контейнерах без сети.</p>
+<p><strong>4 полные пары (2026-11-24):</strong> чистый Codex решил 4 из 4, <code>jev/auto</code> — 2 из 4. У <code>jev/auto</code> кэш-хит упал с 96.7% до 35.5%, некэшированный вход вырос в 22.1 раза (431k → 9.54M), и ни один из 215 вызовов не ушёл в дешёвую <code>gpt-6.1-terra</code>. Задача #5 остановилась на HTTP 429.</p>
+<p><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark/blob/main/README.ru.md"><img src="./assets/astra-jev-outcomes-ru.png" width="100%" alt="Парный пилот DeepSWE, 4 полные пары: чистый Codex решил 4 из 4, jev-auto — 2 из 4; некэшированный вход 431k и 9.54M (22.1×), около 482k при починенном кэше; выходные токены 120.9k и 147.0k (+21.5%); 0 из 215 вызовов ушло в gpt-6.1-terra"></a></p>
+<p><a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark/blob/main/README.ru.md">Открыть бенчмарк ↗</a> · <a href="https://github.com/hqvdvn-cmd/astra-jev-benchmark/blob/main/evidence/2026-11-24-deepswe-pilot-10-v1/summary.md">Сводка</a> · <a href="https://github.com/teo-nex/jev-codex-harness">jev-codex-harness</a></p>
 </td>
 </tr>
 </table>
