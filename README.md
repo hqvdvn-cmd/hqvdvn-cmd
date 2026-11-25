@@ -6,12 +6,9 @@
 
 <img src="./assets/anim/typing.svg" alt="Building AI agents & eval harnesses. From rough prototype to shipped tool.">
 
-I build AI agents, eval harnesses, and web tools, and take them from first prototype to production.
+I wire LLMs into real workflows (client qualification, CRM chats, Chrome extensions) and benchmark coding harnesses in offline Docker before trusting their claims.
 
-Currently working on **AIFRND × AIView**, **AIMTHFR**, and the **Astra + Jev** benchmark.
-
-**Areas:** AI agents and workflows · evals and browser automation · web apps and Chrome extensions<br>
-**How I work:** coding with Claude, Gemini, GPT, and DeepSeek agents in T3 Code
+Currently shipping **AIFRND × AIView**, **AIMTHFR**, and **Astra + Jev**. Daily coding runs in **T3 Code** across Claude, Gemini, GPT, and DeepSeek agents.
 
 <a href="https://t.me/ilovemymoggedlife"><img src="./assets/buttons/telegram.svg" height="28" alt="Telegram @ilovemymoggedlife"></a>
 

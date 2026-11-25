@@ -6,12 +6,9 @@
 
 <img src="./assets/anim/typing-ru.svg" alt="Строю ИИ-агентов и eval-харнессы. От прототипа до рабочего продукта.">
 
-Делаю ИИ-агентов, харнессы для оценки моделей и веб-инструменты и довожу их от первого прототипа до продакшена.
+Встраиваю LLM в реальные рабочие процессы (квалификация заявок, CRM-чаты, расширения для Chrome) и гоняю код-харнессы в оффлайн-Docker, прежде чем верить заявлениям на слово.
 
-Сейчас работаю над **AIFRND × AIView**, **AIMTHFR** и бенчмарком **Astra + Jev**.
-
-**Направления:** ИИ-агенты и пайплайны · evals и браузерная автоматизация · веб-приложения и расширения для Chrome<br>
-**Как работаю:** пишу код с агентами Claude, Gemini, GPT и DeepSeek в T3 Code
+Сейчас делаю **AIFRND × AIView**, **AIMTHFR** и **Astra + Jev**. Основная разработка идёт в **T3 Code** с агентами Claude, Gemini, GPT и DeepSeek.
 
 <a href="https://t.me/ilovemymoggedlife"><img src="./assets/buttons/telegram.svg" height="28" alt="Telegram @ilovemymoggedlife"></a>
 
