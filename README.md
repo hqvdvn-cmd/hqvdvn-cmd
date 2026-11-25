@@ -63,6 +63,7 @@ Currently shipping **AIFRND × AIView**, **AIMTHFR**, and **Astra + Jev**. Daily
 <a href="https://github.com/hqvdvn-cmd/GutsPetCodex"><img src="./assets/buttons/guts-pet.svg" height="46" alt="GutsPet for Codex"></a>
 <a href="https://github.com/hqvdvn-cmd/dota2todeadlock"><img src="./assets/buttons/dota2todeadlock.svg" height="46" alt="Dota 2 → Deadlock: item icons and effects mod"></a>
 <a href="https://github.com/hqvdvn-cmd/sekiro-shura-deadlock"><img src="./assets/buttons/sekiro-shura.svg" height="46" alt="Sekiro → Deadlock: Wolf / Shura visual mod"></a>
+<a href="https://github.com/hqvdvn-cmd/holliday-bandit-deadlock"><img src="./assets/buttons/holliday-bandit.svg" height="46" alt="Holliday Bandit: outlaw remodel for Deadlock"></a>
 <a href="https://github.com/hqvdvn-cmd/iwannabeimp"><img src="./assets/buttons/iwannabeimp.svg" height="46" alt="iwannabeimp: Among Us role-request mod"></a>
 </p>
 

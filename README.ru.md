@@ -63,6 +63,7 @@
 <a href="https://github.com/hqvdvn-cmd/GutsPetCodex"><img src="./assets/buttons/guts-pet.svg" height="46" alt="GutsPet для Codex"></a>
 <a href="https://github.com/hqvdvn-cmd/dota2todeadlock"><img src="./assets/buttons/dota2todeadlock.svg" height="46" alt="Dota 2 → Deadlock: мод с иконками и эффектами предметов"></a>
 <a href="https://github.com/hqvdvn-cmd/sekiro-shura-deadlock"><img src="./assets/buttons/sekiro-shura.svg" height="46" alt="Sekiro → Deadlock: визуальный мод для Yamato"></a>
+<a href="https://github.com/hqvdvn-cmd/holliday-bandit-deadlock"><img src="./assets/buttons/holliday-bandit.svg" height="46" alt="Holliday Bandit: бандитский скин-ремодель для Holliday в Deadlock"></a>
 <a href="https://github.com/hqvdvn-cmd/iwannabeimp"><img src="./assets/buttons/iwannabeimp.svg" height="46" alt="iwannabeimp: мод для Among Us"></a>
 </p>
 

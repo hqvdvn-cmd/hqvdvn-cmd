@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="186" height="40" viewBox="0 0 186 40" role="img" aria-label="Holliday Bandit mod for Deadlock">
+  <title>Holliday Bandit</title>
+  <rect width="186" height="40" rx="8" fill="#171412" stroke="#b4823c"/>
+  <rect x="7" y="7" width="26" height="26" rx="4" fill="#5c3b1e"/>
+  <path d="M14.5 21.5 16.3 14.5c1.8 1.2 5.6 1.2 7.4 0l1.8 7" fill="#fef3c7"/>
+  <path d="M10.5 21.8c4 2.4 15 2.4 19 0" stroke="#fef3c7" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <text x="43" y="25" fill="#fef3c7" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Holliday Bandit</text>
+</svg>
